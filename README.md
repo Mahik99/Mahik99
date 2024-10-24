@@ -70,3 +70,9 @@
   
 
 <br/>  
+
+<div align="center"
+
+  ![snake gif](https://github.com/Mahik99/Mahik99/blob/output/github-snake.svg)
+
+</div>
