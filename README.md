@@ -1,5 +1,8 @@
 
-# <div align="center">Hello World, I'm Mahik! 👋🏼</div>  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=F782EBFF&width=500&height=70&duration=4000&lines=Hello+World!+👋;+I'm+Mahik!💗;" />
+</h1>
+
   
 
 - 🚀 I'm an aspiring full stack software developer, with a love of problem-solving and tackling new challenges! I'm passionate about creating user-centred software that combines thoughtful design with functional code👩🏻‍💻  
