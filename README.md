@@ -8,7 +8,7 @@
 - 🚀 I'm an aspiring full stack software developer, with a love of problem-solving and tackling new challenges! I'm passionate about creating user-centred software that combines thoughtful design with functional code👩🏻‍💻  
   
 
-- 🌱 Lifelong Learner: Always curious and driven to expand my knowledge, I've recently completed a full stack software devlopment bootcamp with the School Of Code! I'm currently completing a data MOOC and exploring AI.
+- 🌱 Lifelong Learner: Always curious and driven to expand my knowledge, I've recently completed a full stack software development bootcamp with the School Of Code! I'm currently completing a data MOOC and exploring AI.
   
 
 - 👥 Collaboration: I thrive in collaborative environments and enjoy pair programming, where I can exchange ideas and explore new perspectives. I believe working together leads to more innovative solutions and a deeper understanding of complex problems 🧠  
