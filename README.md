@@ -1,5 +1,5 @@
-### Hello World, I'm Mahik! 👋🏼  
-####   
+
+# <div align="center">Hello World, I'm Mahik! 👋🏼</div>  
   
 
 - 🚀 I'm an aspiring full stack software developer, with a love of problem-solving and tackling new challenges! I'm passionate about creating user-centred software that combines thoughtful design with functional code👩🏻‍💻  
